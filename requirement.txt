@@ -3,4 +3,4 @@ gunicorn==19.9.0
 keras==2.3.0
 scikit-learn==0.23.2
 flask_restfull==0.3.8
-simplexml
+simplexml==2.7.1
