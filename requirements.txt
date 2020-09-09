@@ -3,5 +3,5 @@ gunicorn==19.9.0
 keras==2.3.0
 scikit-learn==0.23.2
 Flask-RESTful==0.3.8
-python-simplex==0.1.5
+python-simplexml==0.1.5
 keras-models==0.0.7
